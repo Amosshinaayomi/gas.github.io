@@ -93,6 +93,7 @@ main .text-section button{
     margin-top: 0.7em;
     border: 2px solid rgba(0,0,0,.7);
     transition: .5s;
+    Width: 50%;
 }
 
 main .text-section button:hover{
